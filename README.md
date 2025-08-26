@@ -13,6 +13,12 @@ Os diagramas foram criados no **Astah** e podem ser acessados pelos links abaixo
 
 - [Diagrama de Casos de Uso](https://1drv.ms/u/c/654cf350b11023d3/EdZe9LOuJtVAv6EZlYtWScEB0ktooReMP8pZ5GvsHBILuw?e=cVUog2)
 
+## SPRINTS
+
+Sprint 1 - 26/06
+Desenvolver o repositório com boas práticas
+Apresentar os diagramas de caso de uso
+
 ---
 
 > Desenvolvido por: Luiz Miguel Lemes da Silva
