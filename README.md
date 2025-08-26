@@ -3,7 +3,7 @@ Repositório para documentação do sistema orientado objeto em desenvolvimento 
 
 # Projeto de Sistema Orientado a Objetos
 
-Este repositório contém a documentação visual do projeto de sistema orientado a objetos desenvolvido para a disciplina [Nome da Disciplina] do curso de ADS.
+Este repositório contém a documentação visual do projeto de sistema orientado a objetos desenvolvido para a disciplina Projeto de Sistemas Orientado Objeto do curso de ADS.
 
 ## Objetivo
 Documentar os diagramas UML do sistema, incluindo casos de uso, classes e atividades, para avaliação do professor.
