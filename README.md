@@ -1,4 +1,4 @@
-![NeoDESK](icon\iconBack.png)
+![NeoDESK](icon/iconBack.png)
 
 
 
