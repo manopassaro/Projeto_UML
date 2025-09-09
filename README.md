@@ -38,17 +38,25 @@ Os diagramas foram criados no **Astah** e podem ser acessados pelos links abaixo
 
 - [Diagrama de Casos de Uso](https://1drv.ms/u/c/654cf350b11023d3/EdZe9LOuJtVAv6EZlYtWScEB0ktooReMP8pZ5GvsHBILuw?e=cVUog2)
 
+## PROTÓTIPO DE TELA
+O protótipo de tela do software que será desenvolvido foi feito utilizando o figma, para praticidade na modelagem e testes de usabilidade
+
+- [Link do modelo Desktop/Web](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/NeoDesk?node-id=317-414&starting-point-node-id=317%3A414&scaling=scale-down&content-scaling=fixed&t=I6LKXuKYxbPHIr7W-1)
+
 ## SPRINTS
 
 Sprint 1 >> 12/08 - 26/08
-Desenvolver o repositório com boas práticas
-Apresentar os diagramas de caso de uso
-
-Sprint 2 - 27/08 - 10/09
-Aplicação de boas práticas ao Readme
-Estudo e desenvolvimento da API
-Protótipo de tela
+✅ Desenvolver o repositório com boas práticas
+✅ Apresentar os diagramas de caso de uso
+      - [Diagrama de Casos de Uso](https://1drv.ms/u/c/654cf350b11023d3/EdZe9LOuJtVAv6EZlYtWScEB0ktooReMP8pZ5GvsHBILuw?e=cVUog2)
+    
+Sprint 2 >> 27/08 - 10/09
+✅ Aplicação de boas práticas ao Readme
+✅ Estudo e desenvolvimento da API
+    
+✅ Protótipo de tela
+    - [Link do modelo Desktop/Web](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/NeoDesk?node-id=317-414&starting-point-node-id=317%3A414&scaling=scale-down&content-scaling=fixed&t=I6LKXuKYxbPHIr7W-1)
 
 ---
 
-> Desenvolvido por: Luiz Miguel Lemes da Silva, Renan Nogueira Ribeiro, Lucas Antônio Goulart Souto, Pedro Henrique Rodrigues de Souza, Livia Jaco
+> Desenvolvido por: Luiz Miguel Lemes da Silva, Renan Nogueira Ribeiro, Lucas Antônio Goulart Souto, Pedro Henrique Rodrigues de Souza, Lívia Vieira Jacó
