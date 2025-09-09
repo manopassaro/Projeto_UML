@@ -48,6 +48,7 @@ Sprint 2 - 27/08 - 10/09
 Aplicação de boas práticas ao Readme
 Estudo e desenvolvimento da API
 Protótipo de tela
+
 ---
 
-> Desenvolvido por: Luiz Miguel Lemes da Silva
+> Desenvolvido por: Luiz Miguel Lemes da Silva, Renan Nogueira Ribeiro, Lucas Antônio Goulart Souto, Pedro Henrique Rodrigues de Souza, Livia Jaco
