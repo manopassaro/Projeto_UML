@@ -1,3 +1,7 @@
+![NeoDESK](icon\iconBack.png)
+
+
+
 # Projeto_NeoDesk
 Repositório para documentação do projeto integrado multidisciplinar, sistema orientado objeto em desenvolvimento, e para hábito de boas práticas
 
