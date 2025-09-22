@@ -60,4 +60,4 @@ O sistema está sendo programado utilizando React Native(EXPO) como ferramenta d
 
 ---
 
-> Desenvolvido por: Luiz Miguel Lemes da Silva
+> Desenvolvido por: Luiz Miguel Lemes da Silva, Renan Nogueira Ribeiro, Lucas Antônio Goulart Souto, Pedro Henrique Rodrigues de Souza, Lívia Vieira Jacó
