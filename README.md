@@ -38,16 +38,26 @@ Os diagramas foram criados no **Astah** e podem ser acessados pelos links abaixo
 
 - [Diagrama de Casos de Uso](https://1drv.ms/u/c/654cf350b11023d3/EdZe9LOuJtVAv6EZlYtWScEB0ktooReMP8pZ5GvsHBILuw?e=cVUog2)
 
-## SPRINTS
+## Protótipo de tela
+O protótipo de tela do software que será desenvolvido foi feito utilizando o figma, para praticidade na modelagem e testes de usabilidade
+    
+- [Modelo Desktop/Web](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/NeoDesk?node-id=317-414&starting-point-node-id=317%3A414&scaling=scale-down&content-scaling=fixed&t=I6LKXuKYxbPHIr7W-1)
 
-Sprint 1 >> 12/08 - 26/08
-Desenvolver o repositório com boas práticas
-Apresentar os diagramas de caso de uso
+## Sistema Mobile
+O sistema está sendo programado utilizando React Native(EXPO) como ferramenta de desenvolvimento e javascript/typescript como linguagem de programação
 
-Sprint 2 - 27/08 - 10/09
-Aplicação de boas práticas ao Readme
-Estudo e desenvolvimento da API
-Protótipo de tela
+- [Repositório](https://github.com/manopassaro/NeoDeskApp)
+
+## 📅 Planejamento das Sprints
+
+| Sprint  | Período        | Entregas / Atividades                                                                 |
+|---------|----------------|----------------------------------------------------------------------------------------|
+| Sprint 1 | 12/08 - 26/08 | ✅ Criar repositório com boas práticas <br> ✅ Apresentar diagramas de caso de uso (Diagrama de Casos de Uso) |
+| Sprint 2 | 27/08 - 10/09 | ✅ Aplicação de boas práticas ao README <br> ✅ Estudo e desenvolvimento da API <br> ✅ Protótipo de tela (modelo Desktop/Web) |
+| Sprint 3 | 11/09 - 23/09 | ✅ Criação do frontend versão mobile do sistema ✅ Integração com API                                                                                     |
+| Sprint 4 | dd/mm - dd/mm | ⬜ ...                                                                                  |
+| Sprint 5 | dd/mm - dd/mm | ⬜ ...                                                                                  |
+
 ---
 
 > Desenvolvido por: Luiz Miguel Lemes da Silva
