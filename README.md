@@ -50,13 +50,13 @@ O sistema está sendo programado utilizando React Native(EXPO) como ferramenta d
 
 ## 📅 Planejamento das Sprints
 
-[Tabela de Sprints](https://github.com/manopassaro/Projeto_UML/blob/main/docs/Sprints.md)
-
-## ⚙️ Tecnologias Utilizadas  
-[Tecnologias Utilizadas](https://github.com/manopassaro/Projeto_UML/blob/main/docs/Tecnologias.md) 
-
-Lista de linguagens, frameworks, ferramentas e bibliotecas empregadas no desenvolvimento do sistema.
-
+| Sprint  | Período        | Entregas / Atividades                                                                 |
+|---------|----------------|----------------------------------------------------------------------------------------|
+| Sprint 1 | 12/08 - 26/08 | ✅ Criar repositório com boas práticas <br> ✅ Apresentar diagramas de caso de uso (Diagrama de Casos de Uso) |
+| Sprint 2 | 27/08 - 10/09 | ✅ Aplicação de boas práticas ao README <br> ✅ Estudo e desenvolvimento da API <br> ✅ Protótipo de tela (modelo Desktop/Web) |
+| Sprint 3 | 11/09 - 23/09 | ✅ Criação do frontend versão mobile do sistema <br> ✅ Integração com API                                                                                     |
+| Sprint 4 | dd/mm - dd/mm | ⬜ ...                                                                                  |
+| Sprint 5 | dd/mm - dd/mm | ⬜ ...                                                                                  |
 
 ---
 
