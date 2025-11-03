@@ -53,10 +53,7 @@ O protótipo de tela do software que será desenvolvido foi feito utilizando o f
 - [Modelo Desktop/Web](https://www.figma.com/proto/PNPPrRL9X2HOf28W2uVfBA/NeoDesk?node-id=317-414&starting-point-node-id=317%3A414&scaling=scale-down&content-scaling=fixed&t=I6LKXuKYxbPHIr7W-1)
 
 ## Sistema Mobile
-O sistema está sendo programado utilizando React Native(EXPO) como ferramenta de desenvolvimento e javascript/typescript como linguagem de programação
-
-- [Repositório](https://github.com/manopassaro/NeoDeskApp)
-
+[Backlog](https://github.com/manopassaro/Projeto_UML/blob/main/docs/Mobile.md)
 
 ---
 
