@@ -32,6 +32,15 @@ Como desenvolvedor, quero conectar a API ao MySQL, para persistir dados de forma
 Como desenvolvedor, quero implementar rotas CRUD para todas as entidades (Usuários, Chamados, Departamentos, Categorias), para permitir todas as operações do sistema.
 Como desenvolvedor, quero testar a API com dados de exemplo, para garantir que todas as operações funcionem.
 
+## Sprints 
+[Cronograma de Sprints](https://github.com/manopassaro/Projeto_UML/blob/main/docs/Sprints.md)
+
+Planejamento visual de cada sprint, com períodos, metas e links para as documentações correspondentes.
+
+## Tecnologias Utilizadas  
+[Tecnologias Utilizadas](https://github.com/manopassaro/Projeto_UML/blob/main/docs/Tecnologias.md) 
+
+Lista de linguagens, frameworks, ferramentas e bibliotecas empregadas no desenvolvimento do sistema.
 
 ## Diagramas
 Os diagramas foram criados no **Astah** e podem ser acessados pelos links abaixo:
@@ -48,15 +57,6 @@ O sistema está sendo programado utilizando React Native(EXPO) como ferramenta d
 
 - [Repositório](https://github.com/manopassaro/NeoDeskApp)
 
-## 📅 Planejamento das Sprints
-
-| Sprint  | Período        | Entregas / Atividades                                                                 |
-|---------|----------------|----------------------------------------------------------------------------------------|
-| Sprint 1 | 12/08 - 26/08 | ✅ Criar repositório com boas práticas <br> ✅ Apresentar diagramas de caso de uso (Diagrama de Casos de Uso) |
-| Sprint 2 | 27/08 - 10/09 | ✅ Aplicação de boas práticas ao README <br> ✅ Estudo e desenvolvimento da API <br> ✅ Protótipo de tela (modelo Desktop/Web) |
-| Sprint 3 | 11/09 - 23/09 | ✅ Criação do frontend versão mobile do sistema <br> ✅ Integração com API                                                                                     |
-| Sprint 4 | dd/mm - dd/mm | ⬜ ...                                                                                  |
-| Sprint 5 | dd/mm - dd/mm | ⬜ ...                                                                                  |
 
 ---
 
